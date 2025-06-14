@@ -1,4 +1,4 @@
-# COCA_Segmentations: Coronary Artery Calcium Segmentation Dataset
+# COCA_NonGated_Segmentations: Coronary Artery Calcium Segmentation Dataset
 
 ## Introduction
 This repository contains a novel, publicly available dataset of 203 non-gated chest CT scans with expert-verified segmentations of coronary artery calcium (CAC) and adjacent structures. The dataset is designed to facilitate the development of AI models for opportunistic cardiovascular risk assessment by providing comprehensive, location-specific annotations.
